@@ -19,4 +19,3 @@ errors.add(:base, 'Line Items present')
 throw :abort
 end
 end
-end
